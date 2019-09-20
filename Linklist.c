@@ -8,7 +8,8 @@
 7) swap the element
 8) reverse the linklist
 C Program to Implement all the Linklist operations
-@author - apdeban@gmail.com
+@author - APdebian
+@email - apdeban@gmail.com
 */
 #include<stdio.h>
 #include<stdlib.h>
