@@ -1,3 +1,16 @@
+/*
+1) append
+2) addatafter
+3) addatbegin
+4) length of linklist
+5) display linklist
+6) delete
+7) swap the element
+8) reverse the linklist
+LIFO = last in first out
+C Program to Implement all the Linklist operations
+@author - apdeban@gmail.com
+*/
 #include<stdio.h>
 #include<stdlib.h>
 //create a linklist node
