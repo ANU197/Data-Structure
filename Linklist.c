@@ -7,7 +7,6 @@
 6) delete
 7) swap the element
 8) reverse the linklist
-LIFO = last in first out
 C Program to Implement all the Linklist operations
 @author - apdeban@gmail.com
 */
