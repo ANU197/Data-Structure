@@ -8,7 +8,8 @@
 7) size()
 LIFO = last in first out
 C Program to Implement all the stack operation using Static Array
-@author - apdeban@gmail.com
+@author - APdebian
+@email - apdeban@gmail.com
 */
 #include<stdio.h>
 #include<stdlib.h>
